@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hoc-time/static/css/main.c162786f.css",
+    "main.js": "/hoc-time/static/js/main.33387f8d.js",
+    "static/js/787.0fc68f36.chunk.js": "/hoc-time/static/js/787.0fc68f36.chunk.js",
+    "index.html": "/hoc-time/index.html",
+    "main.c162786f.css.map": "/hoc-time/static/css/main.c162786f.css.map",
+    "main.33387f8d.js.map": "/hoc-time/static/js/main.33387f8d.js.map",
+    "787.0fc68f36.chunk.js.map": "/hoc-time/static/js/787.0fc68f36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c162786f.css",
+    "static/js/main.33387f8d.js"
+  ]
+}
